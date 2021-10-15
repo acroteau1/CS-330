@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\OpenGL\GLEW\include\GL\glew.h(85,1): fatal error C1189: #error:  gl.h included before glew.h
